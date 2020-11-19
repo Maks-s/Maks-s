@@ -46,21 +46,21 @@
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
 
-#### Platforms
+### Platforms
 <a href="https://developer.android.com" target="_blank"><img src="https://img.icons8.com/color/40/android-os.png" alt="android" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.icons8.com/color/40/arduino.png" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://img.icons8.com/color/40/linux.png" alt="linux" width="40" height="40"/></a>
 <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://img.icons8.com/color/40/raspberry-pi.png" alt="raspberry-pi" width="40" height="40"/></a>
 <a href="https://www.archlinux.org/" target="_blank"><img src="https://img.icons8.com/color/40/windows-logo.png" alt="windows" width="40" height="40"/></a>
 
-#### Databases
+### Databases
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/40/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/40/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
-#### Softwares & Misc
+### Softwares & Misc
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/color/40/console.png" alt="bash" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/40/docker.png" alt="docker" width="40" height="40"/></a> 
 <a href="https://www.blender.org/" target="_blank"><img src="https://img.icons8.com/color/40/blender-3d.png" alt="blender" width="40" height="40"/></a>
