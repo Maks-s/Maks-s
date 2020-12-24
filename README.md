@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour mon ami 👋 I am Maks</h1>
-<h3 align="center">A baguette developer with a huge ego</h3>
+<h3 align="center">A simple french baguette</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=maks-s&label=Lost%20netizens&color=0e75b6&style=flat-square" alt="maks-s" /></p>
 
