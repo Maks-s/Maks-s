@@ -30,18 +30,18 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/40/ruby-programming-language.png" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://img.icons8.com/color/40/sass.png" alt="sass" width="40" height="40"/> </a> 
 
-### Fullstack frameworks
+### Fullstack libraries
 <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-<a href="https://backbonejs.org" target="_blank"><img src="https://devicon.dev/devicon.git/icons/backbonejs/backbonejs-original.svg" alt="backbonejs" width="40" height="40"/></a>
+<a href="https://backbonejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original.svg" alt="backbonejs" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank"><img src="https://img.icons8.com/color/40/bootstrap.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://rubyonrails.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
+<a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
 <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/40/vue-js.png" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
-<a href="https://gulpjs.com" target="_blank"><img src="https://devicon.dev/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
+<a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
 
-### Misc frameworks
-<a href="https://www.electronjs.org" target="_blank"><img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
+### Misc libraries
+<a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/40/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://www.wxwidgets.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
@@ -56,7 +56,7 @@
 ### Databases
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/40/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/40/postgresql.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
