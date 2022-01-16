@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on *anything*
 
-- 💬 Ask me about *anything*
+- 💬 Ask me about *anything*, I don't bite :)
 
-- 📄 [How I learned *everything*](https://lmddgtfy.net/?q=How%20to%20write%20Hello%20World%20in%20python)
+- 📄 [How I learned *everything*](https://lmddgtfy.net/?q=I%20have%20a%20scary%20error%20please%20help%20me%20%3A%28)
 
 - ⚡ Fun fact: **You can't smile and breath through your nose at the same time**
 
@@ -39,6 +39,8 @@
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://gulpjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+<a href="https://nestjs.com" target="_blank"><img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40"/></a>
 
 ### Misc libraries
 <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
